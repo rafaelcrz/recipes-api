@@ -6,4 +6,6 @@ require('./src/Routes/index')(app);
 
 app.use(cors());
 app.use(express.json());
-app.listen(3333);
+
+var port = process.env.PORT || 8080;
+app.listen(port);
