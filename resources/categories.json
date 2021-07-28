@@ -1,26 +1,19 @@
 [
-    {
-        "id": "84457fed-06a1-4f78-90dd-e9fe4ef01ccc",
-        "name": "Bolos e tortas doces"
-    },
+
     {
         "id": "2e31fea8-0497-4201-a8fd-66cbd9b002ca",
-        "name": "Carnes"
+        "name": "Doces"
     },
     {
         "id": "d999f0a3-b131-41c1-bbdd-4e879607a356",
-        "name": "Saladas"
+        "name": "Hamgurguer"
     },
     {
         "id": "61a827c2-7e09-419e-b2b0-d72330e2a1bf",
-        "name": "Massas"
+        "name": "Peixes"
     },
     {
-        "id": "8f1f17d5-ba93-4205-9f9b-b05a2896db29",
+        "id": "53006eb0-f327-44a9-b4dd-6130438599b5",
         "name": "Bebidas"
-    },
-    {
-        "id": "0f477b60-9942-45f0-9b85-9106d9d7fbb8",
-        "name": "Sucos"
     }
 ]
