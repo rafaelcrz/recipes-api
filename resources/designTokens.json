@@ -1,0 +1,105 @@
+{
+	"colors": {
+		"light": [
+			{
+				"token": "primaryColor",
+				"value": "#C78248"
+			},
+
+			{
+				"token": "secondaryColor",
+				"value": "#CCB752"
+			},
+			
+			{
+				"token": "tertiaryColor",
+				"value": "#8C4A27"
+			},
+			
+			{
+				"token": "neutralColor",
+				"value": "#FFFFFF"
+			},
+
+			{
+				"token": "textColor",
+				"value": "#2E2E2E"
+			},
+
+			{
+				"token": "backgroundColor",
+				"value": "#FEFFFB"
+			},
+
+			{
+				"token": "actionColor",
+				"value": "#F2542F"
+			},
+	
+			{
+				"token": "helperColor",
+				"value": "#401912"
+			}
+		],
+
+		"dark": [
+			{
+				"token": "primaryColor",
+				"value": "#C78248"
+			},
+
+			{
+				"token": "secondaryColor",
+				"value": "#CCB752"
+			},
+			
+			{
+				"token": "tertiaryColor",
+				"value": "#8C4A27"
+			},
+			
+			{
+				"token": "neutralColor",
+				"value": "#1C1C1E"
+			},
+
+			{
+				"token": "textColor",
+				"value": "#2E2E2E"
+			},
+
+			{
+				"token": "backgroundColor",
+				"value": "#232324"
+			},
+
+			{
+				"token": "actionColor",
+				"value": "#F2542F"
+			},
+	
+			{
+				"token": "helperColor",
+				"value": "#401912"
+			}
+		]
+	},
+
+	"margins": [
+		{
+
+		}
+	],
+
+	"spaces": [
+		{
+
+		}
+	],
+
+	"fonts": [
+		{
+
+		}
+	]
+}
