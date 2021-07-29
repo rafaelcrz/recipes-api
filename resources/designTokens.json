@@ -1,105 +1,197 @@
 {
-	"colors": {
-		"light": [
-			{
-				"token": "primaryColor",
-				"value": "#C78248"
-			},
+  "colors": {
+    "light": [
+      {
+        "token": "primaryColor",
+        "value": "#C78248"
+      },
 
-			{
-				"token": "secondaryColor",
-				"value": "#CCB752"
-			},
-			
-			{
-				"token": "tertiaryColor",
-				"value": "#8C4A27"
-			},
-			
-			{
-				"token": "neutralColor",
-				"value": "#FFFFFF"
-			},
+      {
+        "token": "secondaryColor",
+        "value": "#CCB752"
+      },
 
-			{
-				"token": "textColor",
-				"value": "#2E2E2E"
-			},
+      {
+        "token": "tertiaryColor",
+        "value": "#8C4A27"
+      },
 
-			{
-				"token": "backgroundColor",
-				"value": "#FEFFFB"
-			},
+      {
+        "token": "neutralColor",
+        "value": "#FFFFFF"
+      },
 
-			{
-				"token": "actionColor",
-				"value": "#F2542F"
-			},
-	
-			{
-				"token": "helperColor",
-				"value": "#401912"
-			}
-		],
+      {
+        "token": "textColor",
+        "value": "#2E2E2E"
+      },
 
-		"dark": [
-			{
-				"token": "primaryColor",
-				"value": "#C78248"
-			},
+      {
+        "token": "backgroundColor",
+        "value": "#FEFFFB"
+      },
 
-			{
-				"token": "secondaryColor",
-				"value": "#CCB752"
-			},
-			
-			{
-				"token": "tertiaryColor",
-				"value": "#8C4A27"
-			},
-			
-			{
-				"token": "neutralColor",
-				"value": "#232324"
-			},
+      {
+        "token": "actionColor",
+        "value": "#F2542F"
+      },
 
-			{
-				"token": "textColor",
-				"value": "#2E2E2E"
-			},
+      {
+        "token": "helperColor",
+        "value": "#401912"
+      }
+    ],
 
-			{
-				"token": "backgroundColor",
-				"value": "#1C1C1E"
-			},
+    "dark": [
+      {
+        "token": "primaryColor",
+        "value": "#C78248"
+      },
 
-			{
-				"token": "actionColor",
-				"value": "#F2542F"
-			},
-	
-			{
-				"token": "helperColor",
-				"value": "#401912"
-			}
-		]
-	},
+      {
+        "token": "secondaryColor",
+        "value": "#CCB752"
+      },
 
-	"margins": [
-		{
+      {
+        "token": "tertiaryColor",
+        "value": "#8C4A27"
+      },
 
-		}
-	],
+      {
+        "token": "neutralColor",
+        "value": "#232324"
+      },
 
-	"spaces": [
-		{
+      {
+        "token": "textColor",
+        "value": "#2E2E2E"
+      },
 
-		}
-	],
+      {
+        "token": "backgroundColor",
+        "value": "#1C1C1E"
+      },
 
-	"fonts": [
-		{
+      {
+        "token": "actionColor",
+        "value": "#F2542F"
+      },
 
-		}
-	]
+      {
+        "token": "helperColor",
+        "value": "#401912"
+      }
+    ]
+  },
+
+  "spaces": {
+    "margin": [
+      {
+        "token": "space-margin-medium",
+        "value": "16"
+      }
+    ],
+    "padding": [
+      {
+        "token": "space-padding-small",
+        "value": "8"
+      },
+      {
+        "token": "space-padding-medium",
+        "value": "16"
+      }
+    ],
+    "spacing": {
+      "vertical": [
+        {
+          "token": "space-vertical-small",
+          "value": "16"
+        },
+        {
+          "token": "space-vertical-medium",
+          "value": "24"
+        },
+        {
+          "token": "space-vertical-large",
+          "value": "32"
+        }
+      ],
+      "horizontal": [
+        {
+          "token": "space-horizontal-small",
+          "value": "16"
+        },
+        {
+          "token": "space-horizontal-medium",
+          "value": "24"
+        },
+        {
+          "token": "space-horizontal-large",
+          "value": "32"
+        },
+        {
+          "token": "space-horizontal-extra-large",
+          "value": "40"
+        }
+      ]
+    }
+  },
+  "fonts": [
+    {
+      "token": "text-chapter",
+      "value": 32,
+      "weight": "bold"
+    },
+    {
+      "token": "text-header",
+      "value": 28,
+      "weight": "bold"
+    },
+    {
+      "token": "text-title",
+      "value": 24,
+      "weight": "bold"
+    },
+    {
+      "token": "text-sub-title",
+      "value": 20,
+      "weight": "bold"
+    },
+    {
+      "token": "text-body",
+      "value": 16,
+      "weight": "regular"
+    },
+    {
+      "token": "text-detail",
+      "value": 14,
+      "weight": "regular"
+    },
+    {
+      "token": "text-detail-light",
+      "value": 14,
+      "weight": "light"
+    },
+    {
+      "token": "text-detail-medium",
+      "value": 14,
+      "weight": "medium"
+    },
+    {
+      "token": "text-info",
+      "value": 12,
+      "weight": "regular"
+    },
+    {
+      "token": "text-info-light",
+      "value": 12,
+      "weight": "light"
+    },
+    {
+      "token": "text-info-medium",
+      "value": 12,
+      "weight": "medium"
+    }
+  ]
 }

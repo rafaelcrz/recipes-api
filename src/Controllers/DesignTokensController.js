@@ -1,5 +1,5 @@
 const jsonfile = require("jsonfile");
-const file = "resources/recipes.json";
+const file = "resources/designTokens.json";
 
 exports.get = (req, res, next) => {
   jsonfile
